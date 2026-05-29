@@ -15,7 +15,7 @@ client/dist/
 .env.development.local
 .env.test.local
 .env.production.local
-server/config.env
+config.env
 
 # Editor directories and files
 .idea
